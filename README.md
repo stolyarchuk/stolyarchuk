@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 MD041 MD010 -->
+<!-- markdownlint-disable MD028 MD033 MD041 MD010 -->
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-<h4>I am an IT Engineer and Software Developer focused on high‑performance systems, networking, and AI tooling.</h4>
+<h4>I am an IT Engineer and Software Developer focused on high‑performance systems, networking and AI tooling.</h4>
 </div>
 
 <div align="center">
@@ -16,14 +16,14 @@
 
 ## ⭐ Highlights
 
-- C++23, Python, Linux, CI/CD, and production hardening.
+- C++23, Python, Linux, CI/CD and production hardening.
 - Low‑latency networking (DOCA/DPDK, netlink) and real‑time inference pipelines.
 - Maintainer and contributor across llmxio, agno-agi.
 
 ---
 
 > [!NOTE]
-> I build systems that are fast, observable, and reliable. I prefer clean APIs, deterministic behavior, and pragmatic trade-offs.
+> I build systems that are fast, observable and reliable. I prefer clean APIs, deterministic behavior and pragmatic trade-offs.
 
 > [!TIP]
 > Current focus: C++23 networking libraries, gRPC services, AI-assisted automation.
