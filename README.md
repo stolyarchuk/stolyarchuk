@@ -66,20 +66,18 @@
 
 <div align="center">
 
-![stats](https://gh-readme-profile.vercel.app/api?username=stolyarchuk&theme=ayu&border_radius=8)
+![GitHub stats](https://ghstats.dev/api/card?username=stolyarchuk&theme=gruvbox&hide_border=true&show_icons=true&border_radius=8&custom_title=GitHub%20Stats&size=compact&compact_count=6)
 
-<!-- ![stolyarchuk's Stats](https://github-readme-stats.vercel.app/api?username=stolyarchuk&theme=great-gatsby&show_icons=true&hide_border=true&count_private=true) -->
-![stolyarchuk's Stats](https://nirzak-streak-stats.vercel.app/?user=stolyarchuk&theme=great-gatsby&hide_border=true)
-
-</div>
-
-<div align="center">
-
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stolyarchuk&theme=great-gatsby&hide_border=true) -->
-![Contribution stats](https://github-contributor-stats.vercel.app/api?username=stolyarchuk&limit=4&theme=great-gatsby&combine_all_yearly_contributions=true&hide_border=true)
+![stolyarchuk's Stats](https://ghstats.dev/api/card?username=stolyarchuk&theme=gruvbox&hide_border=true&show_icons=true&border_radius=8&custom_title=stolyarchuk%27s%20Stats)
 
 </div>
 
 <div align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=stolyarchuk&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
+
+![Contribution stats](https://ghstats.dev/api/card?username=stolyarchuk&theme=gruvbox&hide_border=true&show_icons=true&border_radius=8&custom_title=Contribution%20Stats&hide=stars,prs,issues,followers,repos)
+
+</div>
+
+<div align="center">
+	<img src="https://ghstats.dev/api/sparkline?username=stolyarchuk&days=90&width=800&height=240&line_color=fabd2f&fill_color=458588&title=90-day%20activity&hide_border=true&border_radius=8" height="240" alt="90-day activity sparkline" />
 </div>
